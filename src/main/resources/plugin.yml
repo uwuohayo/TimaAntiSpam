@@ -1,0 +1,6 @@
+name: TimaAntiSpam
+version: '${project.version}'
+main: ovh.rootkovskiy.timaantispam.Main
+authors: [ timurroot ]
+description: Simple anti spam plugin
+website: www.rootkovskiy.ovh
